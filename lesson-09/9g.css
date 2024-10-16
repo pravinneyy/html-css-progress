@@ -1,0 +1,40 @@
+p {   
+    font-family: arial;
+   margin-top: 0;
+   margin-bottom: 5px;
+   margin-left: 10px;
+}
+.profile1,.profile2,.profile3{
+   width: 200px;
+   box-shadow: 0 0 5px rgba(0,0,0,0.3);
+   display: inline-block;
+   margin-top: 10px;
+   margin-left: 10px;
+   margin-right: 15px;
+}
+.img {
+   width: 200px;
+   height: 200px;
+   object-fit: cover;
+   margin-bottom: 5px;
+}
+.name {
+   font-weight: bold;
+  
+}
+.desp {
+   font-size: 14px;
+   color: rgb(100,100,100)
+}
+.friend-request-button {
+   background-color: rgb(24, 119, 242);
+   color: white;
+   border: none;
+   padding: 10px 15px 10px 15px;
+   border-radius: 5px;
+   margin-left: 10px;
+   margin-top: 5px;
+   margin-bottom: 10px;
+   cursor: pointer;
+
+}
