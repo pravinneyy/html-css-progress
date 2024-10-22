@@ -4,6 +4,7 @@ header {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    border-bottom: 1px solid #dedede;
     margin-bottom: 20px;
     align-items: center;
     position: fixed;
@@ -113,6 +114,7 @@ header {
 .right-section {
     width: 180px;
     margin-right: 20px;
+    margin-left: 20px;
     display: flex;
     flex-direction: center;
     justify-content: space-between;
